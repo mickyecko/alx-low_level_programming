@@ -1,10 +1,9 @@
-#include "_putchar.c"
+#include "main.h"
 
 /**
- * main - Entry point
- *
- * Return: Always returns 0
- *
+ * main - execution starts here
+ * a program that prints _putchar
+ * Return: 0 when successfull
  */
 int main(void)
 {
