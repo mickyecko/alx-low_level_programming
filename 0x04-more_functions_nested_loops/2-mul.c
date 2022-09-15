@@ -1,8 +1,11 @@
+#include "main.h"
+
 /**
- * mul - multiplier
- * @a: int to mult
- * @b: int to mult
- * Return: result of two
+ * mul - multiplies two integers
+ * @a: first integer
+ * @b: second integer
+ *
+ * Return: multiple of a and b
  */
 int mul(int a, int b)
 {
