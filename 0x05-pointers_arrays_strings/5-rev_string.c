@@ -2,7 +2,7 @@
 /**
  * rev_string - reverses a string
  * @s: string pointer to be reversed
- * Author: Idoko David Edward
+ * Author: Michael Owoicho Onah
  * Returns: void.
  */
 void rev_string(char *s)

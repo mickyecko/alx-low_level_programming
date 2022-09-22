@@ -4,7 +4,7 @@
  * @a: integer first number
  * @b: integer second number
  * Return: void
- * Author: Idoko David Edward
+ * Author: Michael Owoicho Onah
  */
 void swap_int(int *a, int *b)
 {

@@ -4,7 +4,7 @@
  * and updates the value it points to to 98
  * @n: takes an argument of an array with integer elements or items
  * Return: void
- * author: Idoko David Edward
+ * author: Michael Owoicho Onah
  */
 
 void reset_to_98(int *n)

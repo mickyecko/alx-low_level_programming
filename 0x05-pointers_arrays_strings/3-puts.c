@@ -2,7 +2,7 @@
 /**
  * _puts - prints a string using putchar
  * @str: the string
- * Author: Idoko David Edward
+ * Author: Michael Owoicho Onah
  * Return: void
  */
 void _puts(char *str)

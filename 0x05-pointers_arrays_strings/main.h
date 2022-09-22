@@ -17,5 +17,5 @@ int _atoi(char *s);
 #endif
 /** This is my header file for alx task
  * pointer,array and string
- * @Author: Idoko David Edward
+ * @Author: Michael Owoicho Onah
  */

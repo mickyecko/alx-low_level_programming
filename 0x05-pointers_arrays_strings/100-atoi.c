@@ -2,7 +2,7 @@
 /**
  * _atoi - converts a string to an integer, truncate invalid char
  * @s: string to convert
- * Author: Idoko David Edawrd
+ * Author: Michael Owoicho Onah
  * Return: value of integer
  */
 int _atoi(char *s)

@@ -4,7 +4,7 @@
 
 /**
  * main - random password generator for 101-crackme
- * Author: Idoko David Edward
+ * Author: Michael Owoicho Onah
  * Return: always 0
  */
 int main(void)

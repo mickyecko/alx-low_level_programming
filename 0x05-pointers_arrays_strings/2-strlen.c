@@ -2,7 +2,7 @@
 /**
  * _strlen - give the length of a string
  * @s: the string passed as a char ptr
- * Author: Idoko David Edward
+ * Author: Michael Owoicho Onah
  * Return: the length of a string
  */
 int _strlen(char *s)

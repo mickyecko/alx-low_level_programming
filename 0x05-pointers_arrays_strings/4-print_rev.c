@@ -2,7 +2,7 @@
 /**
  * print_rev -prints a string in reverse via putchar
  * @s: a string to print in reverse
- * Author: Idoko David Edward
+ * Author: Michael Owoicho Onah
  * Return: a void
  */
 void print_rev(char *s)

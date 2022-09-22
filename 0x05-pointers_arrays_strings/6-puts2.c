@@ -3,7 +3,7 @@
  * puts2 - prints every other character of a string
  * by skipping the next
  * @str: the string to print
- * Author: Idoko David Edward
+ * Author: Michael Owoicho Onah
  * Return: void
  */
 void puts2(char *str)

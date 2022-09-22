@@ -3,7 +3,7 @@
  * _strcpy - copies the pointer
  * @dest: array buffer that returns a pointer
  * @src: the pointer that receive the string
- * Author: Idoko David Edward
+ * Author: Michael Owoicho Onah
  * Return: the value pointer to dest.
  */
 char *_strcpy(char *dest, char *src)

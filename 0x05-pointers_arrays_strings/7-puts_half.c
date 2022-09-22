@@ -2,7 +2,7 @@
 /**
  * puts_half - prints the second half of a string
  * @str: the string to print half
- * Author: Idoko David Edward
+ * Author: Michael Owoicho Onah
  * Return: void
  */
 void puts_half(char *str)
