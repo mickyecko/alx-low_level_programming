@@ -1,9 +1,10 @@
 #include "main.h"
+
 /**
  * rot13 - encodes a string into rot13
  * @s: string to encode
- * Author: Michael Owoicho Onah
- * Return:
+ *
+ * Return: address of s
  */
 char *rot13(char *s)
 {
@@ -13,7 +14,7 @@ char *rot13(char *s)
 
 	for (i = 0; *(s + i); i++)
 	{
-		for (j = 0; a[j] != '\0'; j++)
+		for (j = 0; j < 52; j++)
 		{
 			if (a[j] == *(s + i))
 			{
