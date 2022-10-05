@@ -4,7 +4,7 @@
  * @s: source string
  * @b: the constant byte for filling
  * @n: lenght of buffer
- * Author: Michael OWoicho Onah
+ * Author: Michael Owoicho Onah
  * Return: new string.
  */
 char *_memset(char *s, char b, unsigned int n)

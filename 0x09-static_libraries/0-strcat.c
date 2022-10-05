@@ -3,7 +3,7 @@
  * _strcat - concatenates two strings
  * @dest: parameter string
  * @src: parameter string
- * Author: Michael Owoicho Onah
+ * Author: Michael owoicho onah
  * Return: dest
  */
 
